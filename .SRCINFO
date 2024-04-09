@@ -1,7 +1,7 @@
 pkgbase = python-matplotlib-inline
 	pkgdesc = Inline Matplotlib backend for Jupyter
 	pkgver = 0.1.6
-	pkgrel = 5
+	pkgrel = 6
 	url = https://github.com/ipython/matplotlib-inline
 	arch = any
 	license = BSD
